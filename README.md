@@ -1,4 +1,4 @@
 # suckless status monitor 
 
-# Rrequirements]
+Requirements
 Install noto-fonts package 
