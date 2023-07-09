@@ -1,4 +1,3 @@
 # suckless status monitor 
 
-Requirements
-Install noto-fonts package 
+Install noto-fonts package to show emojis 
