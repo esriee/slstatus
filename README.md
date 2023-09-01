@@ -1,3 +1,3 @@
 # suckless status monitor 
 
-Install noto-fonts package to show emojis 
+Install font-awesome and [Commic Shanns](https://github.com/shannpersand/comic-shanns)
